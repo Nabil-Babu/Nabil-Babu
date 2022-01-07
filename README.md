@@ -1,10 +1,9 @@
 ### Hi there I'm Nabil Babu
-- 🔭 I’m currently working on my Website
-- 🌱 I’m currently learning Unity/Javascript/C#
-- 👯 I’m looking to collaborate on Games and cool Open Source projects
-- 🤔 I’m looking for help with what JS Framework should I learn
-- 💬 Ask me about Procedurally generated art and video games
+- 🔭 I’m currently working as a Indie Game Developer
+- 🌱 I’m currently learning Machine Learning/Rust/Blockchain
+- 👯 I’m looking to collaborate on Games and Open Source projects
+- 🤔 I’m looking for help with Getting into Rust
+- 💬 Ask me about Proc Gen Art and video games
 - 📫 How to reach me: nabil.babu20@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Salsa Dancer - Kung-Fu Fighter
-
